@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Thangamalar - Product Admin</title>
+<link rel="icon" type="image/png" href="images/tj.png">
+<link rel="stylesheet" href="css/admin.css">
+</head>
+<body>
+
+<div id="loginScreen" class="login-box">
+  <h2>Product Admin Login</h2>
+  <p style="font-size:0.85rem;color:#777">Sign in with the admin account created in Firebase Authentication.</p>
+  <input type="email" id="emailInput" placeholder="Admin email" autocomplete="username">
+  <input type="password" id="passwordInput" placeholder="Password" autocomplete="current-password">
+  <button onclick="login()">Log In</button>
+  <p id="loginError" class="error-text"></p>
+</div>
+
+<div id="appScreen" style="display:none">
+  <header>
+    <h1>Thangamalar <span class="gold">Product Admin</span></h1>
+    <button class="secondary" onclick="logout()">Log out</button>
+  </header>
+  <main>
+    <div class="toolbar">
+      <input type="text" id="searchInput" placeholder="Search by name or code..." oninput="renderGrid()">
+      <select id="materialFilterAdmin" onchange="renderGrid()">
+        <option value="all">All Materials</option>
+        <option value="gold">Gold</option>
+        <option value="silver">Silver</option>
+      </select>
+      <select id="typeFilterAdmin" onchange="renderGrid()">
+        <option value="all">All Types</option>
+        <option value="ring">Rings</option>
+        <option value="necklace">Necklaces</option>
+        <option value="earring">Earrings</option>
+        <option value="bracelet">Bracelets</option>
+        <option value="anklet">Anklets</option>
+        <option value="gifts">Gifts</option>
+      </select>
+      <button onclick="openForm()">+ Add Product</button>
+      <span id="countLabel" style="margin-left:auto;font-size:0.85rem;color:#777"></span>
+    </div>
+    <div id="grid" class="grid"></div>
+  </main>
+</div>
+
+<div id="formBackdrop" class="modal-backdrop" style="display:none">
+  <div class="modal">
+    <h2 id="formTitle">Add Product</h2>
+    <form id="productForm" onsubmit="return saveProduct(event)">
+      <input type="hidden" id="productId">
+      <div class="field">
+        <label>Product Code (unique, e.g. TM-G-R-051)</label>
+        <input type="text" id="f_code" required>
+      </div>
+      <div class="field">
+        <label>Name</label>
+        <input type="text" id="f_name" required>
+      </div>
+      <div class="field">
+        <label>Material</label>
+        <select id="f_material" required>
+          <option value="gold">Gold</option>
+          <option value="silver">Silver</option>
+        </select>
+      </div>
+      <div class="field">
+        <label>Type</label>
+        <select id="f_type" required>
+          <option value="ring">Ring</option>
+          <option value="necklace">Necklace</option>
+          <option value="earring">Earring</option>
+          <option value="bracelet">Bracelet</option>
+          <option value="anklet">Anklet</option>
+          <option value="gifts">Gifts</option>
+        </select>
+      </div>
+      <div class="field">
+        <label>Badge (optional, e.g. Bestseller)</label>
+        <input type="text" id="f_badge">
+      </div>
+      <div class="field">
+        <label>Description</label>
+        <textarea id="f_description"></textarea>
+      </div>
+      <div class="field checkbox-field">
+        <input type="checkbox" id="f_active" checked>
+        <label for="f_active" style="margin:0">Visible on the public site</label>
+      </div>
+      <div class="field">
+        <label>Product Image (JPG/PNG/WEBP, upload to replace)</label>
+        <input type="file" id="f_image" accept="image/*" onchange="previewImage(event)">
+        <img id="imgPreview">
+        <div class="upload-progress" id="uploadProgress"><div class="upload-progress-bar" id="uploadProgressBar"></div></div>
+      </div>
+      <p class="error-text" id="formError"></p>
+      <div class="modal-actions">
+        <button type="button" class="secondary" onclick="closeForm()">Cancel</button>
+        <button type="submit" id="saveBtn">Save Product</button>
+      </div>
+    </form>
+  </div>
+</div>
+
+<!-- Firebase (compat SDKs — no build step required) -->
+<script src="https://www.gstatic.com/firebasejs/10.14.1/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.14.1/firebase-firestore-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.14.1/firebase-auth-compat.js"></script>
+
+<!-- App config (edit with your own project keys) -->
+<script src="js/firebase-config.js"></script>
+<script src="js/cloudinary-config.js"></script>
+
+<!-- App logic -->
+<script src="js/admin.js"></script>
+</body>
+</html>

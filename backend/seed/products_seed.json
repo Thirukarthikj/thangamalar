@@ -1,0 +1,2729 @@
+[
+  {
+    "material": "gold",
+    "type": "ring",
+    "code": "TM-G-R-001",
+    "name": "Royal Ring Series 001",
+    "description": "Exquisite 18K Yellow Gold ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-1.jpg",
+    "badge": "Bestseller"
+  },
+  {
+    "material": "gold",
+    "type": "ring",
+    "code": "TM-G-R-002",
+    "name": "Regal Ring Collection 002",
+    "description": "Exquisite 22K Hallmarked Gold ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-2.jpg",
+    "badge": "Limited Edition"
+  },
+  {
+    "material": "gold",
+    "type": "ring",
+    "code": "TM-G-R-003",
+    "name": "Heritage Ring Design 003",
+    "description": "Exquisite Polished Gold ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-3.jpg",
+    "badge": "Festive Special"
+  },
+  {
+    "material": "gold",
+    "type": "ring",
+    "code": "TM-G-R-004",
+    "name": "Traditional Ring Craft 004",
+    "description": "Exquisite 22K Gold ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-4.webp",
+    "badge": "Premium"
+  },
+  {
+    "material": "gold",
+    "type": "ring",
+    "code": "TM-G-R-005",
+    "name": "Imperial Ring Artistry 005",
+    "description": "Exquisite 18K Yellow Gold ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-5.jpg",
+    "badge": "New Collection"
+  },
+  {
+    "material": "gold",
+    "type": "ring",
+    "code": "TM-G-R-006",
+    "name": "Majestic Ring Elegance 006",
+    "description": "Exquisite 22K Hallmarked Gold ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-6.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "ring",
+    "code": "TM-G-R-007",
+    "name": "Elegant Ring Heritage 007",
+    "description": "Exquisite Polished Gold ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-7.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "ring",
+    "code": "TM-G-R-008",
+    "name": "Graceful Ring Motif 008",
+    "description": "Exquisite 22K Gold ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-8.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "ring",
+    "code": "TM-G-R-009",
+    "name": "Timeless Ring Series 009",
+    "description": "Exquisite 18K Yellow Gold ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-9.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "ring",
+    "code": "TM-G-R-010",
+    "name": "Antique Ring Collection 010",
+    "description": "Exquisite 22K Hallmarked Gold ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-10.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "ring",
+    "code": "TM-G-R-011",
+    "name": "Royal Ring Design 011",
+    "description": "Exquisite Polished Gold ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-11.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "ring",
+    "code": "TM-G-R-012",
+    "name": "Regal Ring Craft 012",
+    "description": "Exquisite 22K Gold ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-12.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "ring",
+    "code": "TM-G-R-013",
+    "name": "Heritage Ring Artistry 013",
+    "description": "Exquisite 18K Yellow Gold ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-13.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "ring",
+    "code": "TM-G-R-014",
+    "name": "Traditional Ring Elegance 014",
+    "description": "Exquisite 22K Hallmarked Gold ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-14.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "ring",
+    "code": "TM-G-R-015",
+    "name": "Imperial Ring Heritage 015",
+    "description": "Exquisite Polished Gold ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-15.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "ring",
+    "code": "TM-G-R-016",
+    "name": "Majestic Ring Motif 016",
+    "description": "Exquisite 22K Gold ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-16.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "ring",
+    "code": "TM-G-R-017",
+    "name": "Elegant Ring Series 017",
+    "description": "Exquisite 18K Yellow Gold ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-17.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "ring",
+    "code": "TM-G-R-018",
+    "name": "Graceful Ring Collection 018",
+    "description": "Exquisite 22K Hallmarked Gold ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-18.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "ring",
+    "code": "TM-G-R-019",
+    "name": "Timeless Ring Design 019",
+    "description": "Exquisite Polished Gold ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-19.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "ring",
+    "code": "TM-G-R-020",
+    "name": "Antique Ring Craft 020",
+    "description": "Exquisite 22K Gold ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-20.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "ring",
+    "code": "TM-G-R-021",
+    "name": "Royal Ring Artistry 021",
+    "description": "Exquisite 18K Yellow Gold ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-21.webp",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "ring",
+    "code": "TM-G-R-022",
+    "name": "Regal Ring Elegance 022",
+    "description": "Exquisite 22K Hallmarked Gold ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-22.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "necklace",
+    "code": "TM-G-N-001",
+    "name": "Royal Necklace Series 001",
+    "description": "Exquisite 18K Yellow Gold necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-51.jpg",
+    "badge": "Bestseller"
+  },
+  {
+    "material": "gold",
+    "type": "necklace",
+    "code": "TM-G-N-002",
+    "name": "Regal Necklace Collection 002",
+    "description": "Exquisite 22K Hallmarked Gold necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-52.jpg",
+    "badge": "Limited Edition"
+  },
+  {
+    "material": "gold",
+    "type": "necklace",
+    "code": "TM-G-N-003",
+    "name": "Heritage Necklace Design 003",
+    "description": "Exquisite Polished Gold necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-53.jpg",
+    "badge": "Festive Special"
+  },
+  {
+    "material": "gold",
+    "type": "necklace",
+    "code": "TM-G-N-004",
+    "name": "Traditional Necklace Craft 004",
+    "description": "Exquisite 22K Gold necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-54.jpg",
+    "badge": "Premium"
+  },
+  {
+    "material": "gold",
+    "type": "necklace",
+    "code": "TM-G-N-005",
+    "name": "Imperial Necklace Artistry 005",
+    "description": "Exquisite 18K Yellow Gold necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-55.jpg",
+    "badge": "New Collection"
+  },
+  {
+    "material": "gold",
+    "type": "necklace",
+    "code": "TM-G-N-006",
+    "name": "Majestic Necklace Elegance 006",
+    "description": "Exquisite 22K Hallmarked Gold necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-56.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "necklace",
+    "code": "TM-G-N-007",
+    "name": "Elegant Necklace Heritage 007",
+    "description": "Exquisite Polished Gold necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-57.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "necklace",
+    "code": "TM-G-N-008",
+    "name": "Graceful Necklace Motif 008",
+    "description": "Exquisite 22K Gold necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-58.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "necklace",
+    "code": "TM-G-N-009",
+    "name": "Timeless Necklace Series 009",
+    "description": "Exquisite 18K Yellow Gold necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-59.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "necklace",
+    "code": "TM-G-N-010",
+    "name": "Antique Necklace Collection 010",
+    "description": "Exquisite 22K Hallmarked Gold necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-60.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "necklace",
+    "code": "TM-G-N-011",
+    "name": "Royal Necklace Design 011",
+    "description": "Exquisite Polished Gold necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-61.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "necklace",
+    "code": "TM-G-N-012",
+    "name": "Regal Necklace Craft 012",
+    "description": "Exquisite 22K Gold necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-62.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "necklace",
+    "code": "TM-G-N-013",
+    "name": "Heritage Necklace Artistry 013",
+    "description": "Exquisite 18K Yellow Gold necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-63.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "necklace",
+    "code": "TM-G-N-014",
+    "name": "Traditional Necklace Elegance 014",
+    "description": "Exquisite 22K Hallmarked Gold necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-64.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "necklace",
+    "code": "TM-G-N-015",
+    "name": "Imperial Necklace Heritage 015",
+    "description": "Exquisite Polished Gold necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-65.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "necklace",
+    "code": "TM-G-N-016",
+    "name": "Majestic Necklace Motif 016",
+    "description": "Exquisite 22K Gold necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-66.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "necklace",
+    "code": "TM-G-N-017",
+    "name": "Elegant Necklace Series 017",
+    "description": "Exquisite 18K Yellow Gold necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-67.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "necklace",
+    "code": "TM-G-N-018",
+    "name": "Graceful Necklace Collection 018",
+    "description": "Exquisite 22K Hallmarked Gold necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-68.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "necklace",
+    "code": "TM-G-N-019",
+    "name": "Timeless Necklace Design 019",
+    "description": "Exquisite Polished Gold necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-69.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "necklace",
+    "code": "TM-G-N-020",
+    "name": "Antique Necklace Craft 020",
+    "description": "Exquisite 22K Gold necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-70.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "necklace",
+    "code": "TM-G-N-021",
+    "name": "Royal Necklace Artistry 021",
+    "description": "Exquisite 18K Yellow Gold necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-71.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "necklace",
+    "code": "TM-G-N-022",
+    "name": "Regal Necklace Elegance 022",
+    "description": "Exquisite 22K Hallmarked Gold necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-72.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "necklace",
+    "code": "TM-G-N-023",
+    "name": "Heritage Necklace Heritage 023",
+    "description": "Exquisite Polished Gold necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-73.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "necklace",
+    "code": "TM-G-N-024",
+    "name": "Traditional Necklace Motif 024",
+    "description": "Exquisite 22K Gold necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-74.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "necklace",
+    "code": "TM-G-N-025",
+    "name": "Imperial Necklace Series 025",
+    "description": "Exquisite 18K Yellow Gold necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-75.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "necklace",
+    "code": "TM-G-N-026",
+    "name": "Majestic Necklace Collection 026",
+    "description": "Exquisite 22K Hallmarked Gold necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-76.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "necklace",
+    "code": "TM-G-N-027",
+    "name": "Elegant Necklace Design 027",
+    "description": "Exquisite Polished Gold necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-77.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "necklace",
+    "code": "TM-G-N-028",
+    "name": "Graceful Necklace Craft 028",
+    "description": "Exquisite 22K Gold necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-78.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "necklace",
+    "code": "TM-G-N-029",
+    "name": "Timeless Necklace Artistry 029",
+    "description": "Exquisite 18K Yellow Gold necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-79.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "necklace",
+    "code": "TM-G-N-030",
+    "name": "Antique Necklace Elegance 030",
+    "description": "Exquisite 22K Hallmarked Gold necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-80.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "necklace",
+    "code": "TM-G-N-031",
+    "name": "Royal Necklace Heritage 031",
+    "description": "Exquisite Polished Gold necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-81.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "necklace",
+    "code": "TM-G-N-032",
+    "name": "Regal Necklace Motif 032",
+    "description": "Exquisite 22K Gold necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-82.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "earring",
+    "code": "TM-G-E-001",
+    "name": "Royal Earring Series 001",
+    "description": "Exquisite 18K Yellow Gold earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-101.jpg",
+    "badge": "Bestseller"
+  },
+  {
+    "material": "gold",
+    "type": "earring",
+    "code": "TM-G-E-002",
+    "name": "Regal Earring Collection 002",
+    "description": "Exquisite 22K Hallmarked Gold earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-102.jpg",
+    "badge": "Limited Edition"
+  },
+  {
+    "material": "gold",
+    "type": "earring",
+    "code": "TM-G-E-003",
+    "name": "Heritage Earring Design 003",
+    "description": "Exquisite Polished Gold earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-103.jpg",
+    "badge": "Festive Special"
+  },
+  {
+    "material": "gold",
+    "type": "earring",
+    "code": "TM-G-E-004",
+    "name": "Traditional Earring Craft 004",
+    "description": "Exquisite 22K Gold earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-104.webp",
+    "badge": "Premium"
+  },
+  {
+    "material": "gold",
+    "type": "earring",
+    "code": "TM-G-E-005",
+    "name": "Imperial Earring Artistry 005",
+    "description": "Exquisite 18K Yellow Gold earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-105.jpg",
+    "badge": "New Collection"
+  },
+  {
+    "material": "gold",
+    "type": "earring",
+    "code": "TM-G-E-006",
+    "name": "Majestic Earring Elegance 006",
+    "description": "Exquisite 22K Hallmarked Gold earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-106.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "earring",
+    "code": "TM-G-E-007",
+    "name": "Elegant Earring Heritage 007",
+    "description": "Exquisite Polished Gold earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-107.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "earring",
+    "code": "TM-G-E-008",
+    "name": "Graceful Earring Motif 008",
+    "description": "Exquisite 22K Gold earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-108.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "earring",
+    "code": "TM-G-E-009",
+    "name": "Timeless Earring Series 009",
+    "description": "Exquisite 18K Yellow Gold earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-109.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "earring",
+    "code": "TM-G-E-010",
+    "name": "Antique Earring Collection 010",
+    "description": "Exquisite 22K Hallmarked Gold earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-110.webp",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "earring",
+    "code": "TM-G-E-012",
+    "name": "Regal Earring Craft 012",
+    "description": "Exquisite 22K Gold earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-112.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "earring",
+    "code": "TM-G-E-013",
+    "name": "Heritage Earring Artistry 013",
+    "description": "Exquisite 18K Yellow Gold earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-113.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "earring",
+    "code": "TM-G-E-014",
+    "name": "Traditional Earring Elegance 014",
+    "description": "Exquisite 22K Hallmarked Gold earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-114.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "earring",
+    "code": "TM-G-E-015",
+    "name": "Imperial Earring Heritage 015",
+    "description": "Exquisite Polished Gold earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-115.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "earring",
+    "code": "TM-G-E-016",
+    "name": "Majestic Earring Motif 016",
+    "description": "Exquisite 22K Gold earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-116.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "earring",
+    "code": "TM-G-E-017",
+    "name": "Elegant Earring Series 017",
+    "description": "Exquisite 18K Yellow Gold earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-117.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "earring",
+    "code": "TM-G-E-018",
+    "name": "Graceful Earring Collection 018",
+    "description": "Exquisite 22K Hallmarked Gold earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-118.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "earring",
+    "code": "TM-G-E-019",
+    "name": "Timeless Earring Design 019",
+    "description": "Exquisite Polished Gold earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-119.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "earring",
+    "code": "TM-G-E-020",
+    "name": "Antique Earring Craft 020",
+    "description": "Exquisite 22K Gold earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-120.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "earring",
+    "code": "TM-G-E-021",
+    "name": "Royal Earring Artistry 021",
+    "description": "Exquisite 18K Yellow Gold earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-121.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "earring",
+    "code": "TM-G-E-022",
+    "name": "Regal Earring Elegance 022",
+    "description": "Exquisite 22K Hallmarked Gold earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-122.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "earring",
+    "code": "TM-G-E-023",
+    "name": "Heritage Earring Heritage 023",
+    "description": "Exquisite Polished Gold earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-123.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "earring",
+    "code": "TM-G-E-024",
+    "name": "Traditional Earring Motif 024",
+    "description": "Exquisite 22K Gold earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-124.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "earring",
+    "code": "TM-G-E-025",
+    "name": "Imperial Earring Series 025",
+    "description": "Exquisite 18K Yellow Gold earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-125.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "earring",
+    "code": "TM-G-E-026",
+    "name": "Majestic Earring Collection 026",
+    "description": "Exquisite 22K Hallmarked Gold earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-126.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "earring",
+    "code": "TM-G-E-027",
+    "name": "Elegant Earring Design 027",
+    "description": "Exquisite Polished Gold earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-127.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-001",
+    "name": "Royal Bracelet Series 001",
+    "description": "Exquisite 18K Yellow Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-151.jpg",
+    "badge": "Bestseller"
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-002",
+    "name": "Regal Bracelet Collection 002",
+    "description": "Exquisite 22K Hallmarked Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-152.jpg",
+    "badge": "Limited Edition"
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-003",
+    "name": "Heritage Bracelet Design 003",
+    "description": "Exquisite Polished Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-153.jpg",
+    "badge": "Festive Special"
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-004",
+    "name": "Traditional Bracelet Craft 004",
+    "description": "Exquisite 22K Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-154.jpg",
+    "badge": "Premium"
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-005",
+    "name": "Imperial Bracelet Artistry 005",
+    "description": "Exquisite 18K Yellow Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-155.jpg",
+    "badge": "New Collection"
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-006",
+    "name": "Majestic Bracelet Elegance 006",
+    "description": "Exquisite 22K Hallmarked Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-156.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-007",
+    "name": "Elegant Bracelet Heritage 007",
+    "description": "Exquisite Polished Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-157.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-008",
+    "name": "Graceful Bracelet Motif 008",
+    "description": "Exquisite 22K Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-158.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-009",
+    "name": "Timeless Bracelet Series 009",
+    "description": "Exquisite 18K Yellow Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-159.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-010",
+    "name": "Antique Bracelet Collection 010",
+    "description": "Exquisite 22K Hallmarked Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-160.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-011",
+    "name": "Royal Bracelet Design 011",
+    "description": "Exquisite Polished Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-161.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-012",
+    "name": "Regal Bracelet Craft 012",
+    "description": "Exquisite 22K Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-162.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-013",
+    "name": "Heritage Bracelet Artistry 013",
+    "description": "Exquisite 18K Yellow Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-163.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-014",
+    "name": "Traditional Bracelet Elegance 014",
+    "description": "Exquisite 22K Hallmarked Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-164.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-015",
+    "name": "Imperial Bracelet Heritage 015",
+    "description": "Exquisite Polished Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-165.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-016",
+    "name": "Majestic Bracelet Motif 016",
+    "description": "Exquisite 22K Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-166.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-017",
+    "name": "Elegant Bracelet Series 017",
+    "description": "Exquisite 18K Yellow Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-167.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-018",
+    "name": "Graceful Bracelet Collection 018",
+    "description": "Exquisite 22K Hallmarked Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-168.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-019",
+    "name": "Timeless Bracelet Design 019",
+    "description": "Exquisite Polished Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-169.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-020",
+    "name": "Antique Bracelet Craft 020",
+    "description": "Exquisite 22K Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-170.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-021",
+    "name": "Royal Bracelet Artistry 021",
+    "description": "Exquisite 18K Yellow Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-171.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-022",
+    "name": "Regal Bracelet Elegance 022",
+    "description": "Exquisite 22K Hallmarked Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-172.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-023",
+    "name": "Heritage Bracelet Heritage 023",
+    "description": "Exquisite Polished Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-173.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-024",
+    "name": "Traditional Bracelet Motif 024",
+    "description": "Exquisite 22K Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-174.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-025",
+    "name": "Imperial Bracelet Series 025",
+    "description": "Exquisite 18K Yellow Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-175.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-026",
+    "name": "Majestic Bracelet Collection 026",
+    "description": "Exquisite 22K Hallmarked Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-176.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-027",
+    "name": "Elegant Bracelet Design 027",
+    "description": "Exquisite Polished Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-177.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-028",
+    "name": "Graceful Bracelet Craft 028",
+    "description": "Exquisite 22K Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-178.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-029",
+    "name": "Timeless Bracelet Artistry 029",
+    "description": "Exquisite 18K Yellow Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-179.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-030",
+    "name": "Antique Bracelet Elegance 030",
+    "description": "Exquisite 22K Hallmarked Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-180.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-031",
+    "name": "Royal Bracelet Heritage 031",
+    "description": "Exquisite Polished Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-181.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-032",
+    "name": "Regal Bracelet Motif 032",
+    "description": "Exquisite 22K Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-182.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-033",
+    "name": "Heritage Bracelet Series 033",
+    "description": "Exquisite 18K Yellow Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-183.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-034",
+    "name": "Traditional Bracelet Collection 034",
+    "description": "Exquisite 22K Hallmarked Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-184.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-035",
+    "name": "Imperial Bracelet Design 035",
+    "description": "Exquisite Polished Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-185.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-036",
+    "name": "Majestic Bracelet Craft 036",
+    "description": "Exquisite 22K Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-186.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-037",
+    "name": "Elegant Bracelet Artistry 037",
+    "description": "Exquisite 18K Yellow Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-187.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-038",
+    "name": "Graceful Bracelet Elegance 038",
+    "description": "Exquisite 22K Hallmarked Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-188.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-039",
+    "name": "Timeless Bracelet Heritage 039",
+    "description": "Exquisite Polished Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-189.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-040",
+    "name": "Antique Bracelet Motif 040",
+    "description": "Exquisite 22K Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-190.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-041",
+    "name": "Royal Bracelet Series 041",
+    "description": "Exquisite 18K Yellow Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-191.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-042",
+    "name": "Regal Bracelet Collection 042",
+    "description": "Exquisite 22K Hallmarked Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-192.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-043",
+    "name": "Heritage Bracelet Design 043",
+    "description": "Exquisite Polished Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-193.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-044",
+    "name": "Traditional Bracelet Craft 044",
+    "description": "Exquisite 22K Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-194.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-045",
+    "name": "Imperial Bracelet Artistry 045",
+    "description": "Exquisite 18K Yellow Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-195.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-046",
+    "name": "Majestic Bracelet Elegance 046",
+    "description": "Exquisite 22K Hallmarked Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-196.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-047",
+    "name": "Elegant Bracelet Heritage 047",
+    "description": "Exquisite Polished Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-197.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-048",
+    "name": "Graceful Bracelet Motif 048",
+    "description": "Exquisite 22K Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-198.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-049",
+    "name": "Timeless Bracelet Series 049",
+    "description": "Exquisite 18K Yellow Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-199.jpg",
+    "badge": ""
+  },
+  {
+    "material": "gold",
+    "type": "bracelet",
+    "code": "TM-G-B-050",
+    "name": "Antique Bracelet Collection 050",
+    "description": "Exquisite 22K Hallmarked Gold bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-200.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "ring",
+    "code": "TM-S-R-001",
+    "name": "Celestial Ring Series 001",
+    "description": "Exquisite Oxidized Silver ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-251.jpg",
+    "badge": "Bestseller"
+  },
+  {
+    "material": "silver",
+    "type": "ring",
+    "code": "TM-S-R-002",
+    "name": "Mystic Ring Collection 002",
+    "description": "Exquisite Handcrafted Silver ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-252.jpg",
+    "badge": "Limited Edition"
+  },
+  {
+    "material": "silver",
+    "type": "ring",
+    "code": "TM-S-R-003",
+    "name": "Ethereal Ring Design 003",
+    "description": "Exquisite 925 Sterling Silver ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-253.jpg",
+    "badge": "Festive Special"
+  },
+  {
+    "material": "silver",
+    "type": "ring",
+    "code": "TM-S-R-004",
+    "name": "Serene Ring Craft 004",
+    "description": "Exquisite Oxidized Silver ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-254.jpg",
+    "badge": "Premium"
+  },
+  {
+    "material": "silver",
+    "type": "ring",
+    "code": "TM-S-R-005",
+    "name": "Radiant Ring Artistry 005",
+    "description": "Exquisite Handcrafted Silver ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-255.jpg",
+    "badge": "New Collection"
+  },
+  {
+    "material": "silver",
+    "type": "ring",
+    "code": "TM-S-R-006",
+    "name": "Opulent Ring Elegance 006",
+    "description": "Exquisite 925 Sterling Silver ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-256.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "ring",
+    "code": "TM-S-R-007",
+    "name": "Delicate Ring Heritage 007",
+    "description": "Exquisite Oxidized Silver ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-257.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "ring",
+    "code": "TM-S-R-008",
+    "name": "Classic Ring Motif 008",
+    "description": "Exquisite Handcrafted Silver ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-258.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "ring",
+    "code": "TM-S-R-009",
+    "name": "Modern Ring Series 009",
+    "description": "Exquisite 925 Sterling Silver ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-259.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "ring",
+    "code": "TM-S-R-010",
+    "name": "Lunar Ring Collection 010",
+    "description": "Exquisite Oxidized Silver ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-260.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "ring",
+    "code": "TM-S-R-011",
+    "name": "Celestial Ring Design 011",
+    "description": "Exquisite Handcrafted Silver ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-261.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "ring",
+    "code": "TM-S-R-012",
+    "name": "Mystic Ring Craft 012",
+    "description": "Exquisite 925 Sterling Silver ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-262.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "ring",
+    "code": "TM-S-R-013",
+    "name": "Ethereal Ring Artistry 013",
+    "description": "Exquisite Oxidized Silver ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-263.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "ring",
+    "code": "TM-S-R-014",
+    "name": "Serene Ring Elegance 014",
+    "description": "Exquisite Handcrafted Silver ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-264.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "ring",
+    "code": "TM-S-R-015",
+    "name": "Radiant Ring Heritage 015",
+    "description": "Exquisite 925 Sterling Silver ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-265.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "ring",
+    "code": "TM-S-R-016",
+    "name": "Opulent Ring Motif 016",
+    "description": "Exquisite Oxidized Silver ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-266.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "ring",
+    "code": "TM-S-R-017",
+    "name": "Delicate Ring Series 017",
+    "description": "Exquisite Handcrafted Silver ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-267.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "ring",
+    "code": "TM-S-R-018",
+    "name": "Classic Ring Collection 018",
+    "description": "Exquisite 925 Sterling Silver ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-268.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "ring",
+    "code": "TM-S-R-019",
+    "name": "Modern Ring Design 019",
+    "description": "Exquisite Oxidized Silver ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-269.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "ring",
+    "code": "TM-S-R-020",
+    "name": "Lunar Ring Craft 020",
+    "description": "Exquisite Handcrafted Silver ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-270.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "ring",
+    "code": "TM-S-R-021",
+    "name": "Celestial Ring Artistry 021",
+    "description": "Exquisite 925 Sterling Silver ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-271.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "ring",
+    "code": "TM-S-R-022",
+    "name": "Mystic Ring Elegance 022",
+    "description": "Exquisite Oxidized Silver ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-272.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "ring",
+    "code": "TM-S-R-023",
+    "name": "Ethereal Ring Heritage 023",
+    "description": "Exquisite Handcrafted Silver ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-273.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "ring",
+    "code": "TM-S-R-024",
+    "name": "Serene Ring Motif 024",
+    "description": "Exquisite 925 Sterling Silver ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-274.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "ring",
+    "code": "TM-S-R-025",
+    "name": "Radiant Ring Series 025",
+    "description": "Exquisite Oxidized Silver ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-275.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "ring",
+    "code": "TM-S-R-026",
+    "name": "Opulent Ring Collection 026",
+    "description": "Exquisite Handcrafted Silver ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-276.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "ring",
+    "code": "TM-S-R-027",
+    "name": "Delicate Ring Design 027",
+    "description": "Exquisite 925 Sterling Silver ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-277.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "ring",
+    "code": "TM-S-R-028",
+    "name": "Classic Ring Craft 028",
+    "description": "Exquisite Oxidized Silver ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-278.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "ring",
+    "code": "TM-S-R-029",
+    "name": "Modern Ring Artistry 029",
+    "description": "Exquisite Handcrafted Silver ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-279.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "ring",
+    "code": "TM-S-R-030",
+    "name": "Lunar Ring Elegance 030",
+    "description": "Exquisite 925 Sterling Silver ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-280.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "ring",
+    "code": "TM-S-R-031",
+    "name": "Celestial Ring Heritage 031",
+    "description": "Exquisite Oxidized Silver ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-281.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "ring",
+    "code": "TM-S-R-032",
+    "name": "Mystic Ring Motif 032",
+    "description": "Exquisite Handcrafted Silver ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-282.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "ring",
+    "code": "TM-S-R-033",
+    "name": "Ethereal Ring Series 033",
+    "description": "Exquisite 925 Sterling Silver ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-283.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "ring",
+    "code": "TM-S-R-034",
+    "name": "Serene Ring Collection 034",
+    "description": "Exquisite Oxidized Silver ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-284.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "ring",
+    "code": "TM-S-R-035",
+    "name": "Radiant Ring Design 035",
+    "description": "Exquisite Handcrafted Silver ring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-285.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "necklace",
+    "code": "TM-S-N-001",
+    "name": "Celestial Necklace Series 001",
+    "description": "Exquisite Oxidized Silver necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-301.jpg",
+    "badge": "Bestseller"
+  },
+  {
+    "material": "silver",
+    "type": "necklace",
+    "code": "TM-S-N-002",
+    "name": "Mystic Necklace Collection 002",
+    "description": "Exquisite Handcrafted Silver necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-302.jpg",
+    "badge": "Limited Edition"
+  },
+  {
+    "material": "silver",
+    "type": "necklace",
+    "code": "TM-S-N-003",
+    "name": "Ethereal Necklace Design 003",
+    "description": "Exquisite 925 Sterling Silver necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-303.jpg",
+    "badge": "Festive Special"
+  },
+  {
+    "material": "silver",
+    "type": "necklace",
+    "code": "TM-S-N-004",
+    "name": "Serene Necklace Craft 004",
+    "description": "Exquisite Oxidized Silver necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-304.jpg",
+    "badge": "Premium"
+  },
+  {
+    "material": "silver",
+    "type": "necklace",
+    "code": "TM-S-N-005",
+    "name": "Radiant Necklace Artistry 005",
+    "description": "Exquisite Handcrafted Silver necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-305.jpg",
+    "badge": "New Collection"
+  },
+  {
+    "material": "silver",
+    "type": "necklace",
+    "code": "TM-S-N-006",
+    "name": "Opulent Necklace Elegance 006",
+    "description": "Exquisite 925 Sterling Silver necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-306.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "necklace",
+    "code": "TM-S-N-007",
+    "name": "Delicate Necklace Heritage 007",
+    "description": "Exquisite Oxidized Silver necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-307.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "necklace",
+    "code": "TM-S-N-008",
+    "name": "Classic Necklace Motif 008",
+    "description": "Exquisite Handcrafted Silver necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-308.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "necklace",
+    "code": "TM-S-N-009",
+    "name": "Modern Necklace Series 009",
+    "description": "Exquisite 925 Sterling Silver necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-309.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "necklace",
+    "code": "TM-S-N-010",
+    "name": "Lunar Necklace Collection 010",
+    "description": "Exquisite Oxidized Silver necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-310.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "necklace",
+    "code": "TM-S-N-011",
+    "name": "Celestial Necklace Design 011",
+    "description": "Exquisite Handcrafted Silver necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-311.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "necklace",
+    "code": "TM-S-N-012",
+    "name": "Mystic Necklace Craft 012",
+    "description": "Exquisite 925 Sterling Silver necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-312.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "necklace",
+    "code": "TM-S-N-013",
+    "name": "Ethereal Necklace Artistry 013",
+    "description": "Exquisite Oxidized Silver necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-313.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "necklace",
+    "code": "TM-S-N-014",
+    "name": "Serene Necklace Elegance 014",
+    "description": "Exquisite Handcrafted Silver necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-314.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "necklace",
+    "code": "TM-S-N-015",
+    "name": "Radiant Necklace Heritage 015",
+    "description": "Exquisite 925 Sterling Silver necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-315.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "necklace",
+    "code": "TM-S-N-016",
+    "name": "Opulent Necklace Motif 016",
+    "description": "Exquisite Oxidized Silver necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-316.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "necklace",
+    "code": "TM-S-N-017",
+    "name": "Delicate Necklace Series 017",
+    "description": "Exquisite Handcrafted Silver necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-317.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "necklace",
+    "code": "TM-S-N-018",
+    "name": "Classic Necklace Collection 018",
+    "description": "Exquisite 925 Sterling Silver necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-318.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "necklace",
+    "code": "TM-S-N-019",
+    "name": "Modern Necklace Design 019",
+    "description": "Exquisite Oxidized Silver necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-319.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "necklace",
+    "code": "TM-S-N-020",
+    "name": "Lunar Necklace Craft 020",
+    "description": "Exquisite Handcrafted Silver necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-320.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "necklace",
+    "code": "TM-S-N-021",
+    "name": "Celestial Necklace Artistry 021",
+    "description": "Exquisite 925 Sterling Silver necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-321.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "necklace",
+    "code": "TM-S-N-022",
+    "name": "Mystic Necklace Elegance 022",
+    "description": "Exquisite Oxidized Silver necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-322.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "necklace",
+    "code": "TM-S-N-023",
+    "name": "Ethereal Necklace Heritage 023",
+    "description": "Exquisite Handcrafted Silver necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-323.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "necklace",
+    "code": "TM-S-N-024",
+    "name": "Serene Necklace Motif 024",
+    "description": "Exquisite 925 Sterling Silver necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-324.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "necklace",
+    "code": "TM-S-N-025",
+    "name": "Radiant Necklace Series 025",
+    "description": "Exquisite Oxidized Silver necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-325.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "necklace",
+    "code": "TM-S-N-026",
+    "name": "Opulent Necklace Collection 026",
+    "description": "Exquisite Handcrafted Silver necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-326.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "necklace",
+    "code": "TM-S-N-027",
+    "name": "Delicate Necklace Design 027",
+    "description": "Exquisite 925 Sterling Silver necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-327.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "necklace",
+    "code": "TM-S-N-028",
+    "name": "Classic Necklace Craft 028",
+    "description": "Exquisite Oxidized Silver necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-328.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "necklace",
+    "code": "TM-S-N-029",
+    "name": "Modern Necklace Artistry 029",
+    "description": "Exquisite Handcrafted Silver necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-329.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "necklace",
+    "code": "TM-S-N-030",
+    "name": "Lunar Necklace Elegance 030",
+    "description": "Exquisite 925 Sterling Silver necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-330.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "necklace",
+    "code": "TM-S-N-031",
+    "name": "Celestial Necklace Heritage 031",
+    "description": "Exquisite Oxidized Silver necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-331.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "necklace",
+    "code": "TM-S-N-032",
+    "name": "Mystic Necklace Motif 032",
+    "description": "Exquisite Handcrafted Silver necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-332.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "necklace",
+    "code": "TM-S-N-033",
+    "name": "Ethereal Necklace Series 033",
+    "description": "Exquisite 925 Sterling Silver necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-333.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "necklace",
+    "code": "TM-S-N-034",
+    "name": "Serene Necklace Collection 034",
+    "description": "Exquisite Oxidized Silver necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-334.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "necklace",
+    "code": "TM-S-N-035",
+    "name": "Radiant Necklace Design 035",
+    "description": "Exquisite Handcrafted Silver necklace featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-335.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "earring",
+    "code": "TM-S-E-001",
+    "name": "Celestial Earring Series 001",
+    "description": "Exquisite Oxidized Silver earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-351.jpg",
+    "badge": "Bestseller"
+  },
+  {
+    "material": "silver",
+    "type": "earring",
+    "code": "TM-S-E-002",
+    "name": "Mystic Earring Collection 002",
+    "description": "Exquisite Handcrafted Silver earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-352.jpg",
+    "badge": "Limited Edition"
+  },
+  {
+    "material": "silver",
+    "type": "earring",
+    "code": "TM-S-E-003",
+    "name": "Ethereal Earring Design 003",
+    "description": "Exquisite 925 Sterling Silver earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-353.png",
+    "badge": "Festive Special"
+  },
+  {
+    "material": "silver",
+    "type": "earring",
+    "code": "TM-S-E-004",
+    "name": "Serene Earring Craft 004",
+    "description": "Exquisite Oxidized Silver earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-354.jpg",
+    "badge": "Premium"
+  },
+  {
+    "material": "silver",
+    "type": "earring",
+    "code": "TM-S-E-005",
+    "name": "Radiant Earring Artistry 005",
+    "description": "Exquisite Handcrafted Silver earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-355.jpg",
+    "badge": "New Collection"
+  },
+  {
+    "material": "silver",
+    "type": "earring",
+    "code": "TM-S-E-006",
+    "name": "Opulent Earring Elegance 006",
+    "description": "Exquisite 925 Sterling Silver earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-356.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "earring",
+    "code": "TM-S-E-007",
+    "name": "Delicate Earring Heritage 007",
+    "description": "Exquisite Oxidized Silver earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-357.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "earring",
+    "code": "TM-S-E-008",
+    "name": "Classic Earring Motif 008",
+    "description": "Exquisite Handcrafted Silver earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-358.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "earring",
+    "code": "TM-S-E-009",
+    "name": "Modern Earring Series 009",
+    "description": "Exquisite 925 Sterling Silver earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-359.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "earring",
+    "code": "TM-S-E-010",
+    "name": "Lunar Earring Collection 010",
+    "description": "Exquisite Oxidized Silver earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-360.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "earring",
+    "code": "TM-S-E-011",
+    "name": "Celestial Earring Design 011",
+    "description": "Exquisite Handcrafted Silver earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-361.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "earring",
+    "code": "TM-S-E-012",
+    "name": "Mystic Earring Craft 012",
+    "description": "Exquisite 925 Sterling Silver earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-362.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "earring",
+    "code": "TM-S-E-013",
+    "name": "Ethereal Earring Artistry 013",
+    "description": "Exquisite Oxidized Silver earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-363.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "earring",
+    "code": "TM-S-E-014",
+    "name": "Serene Earring Elegance 014",
+    "description": "Exquisite Handcrafted Silver earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-364.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "earring",
+    "code": "TM-S-E-015",
+    "name": "Radiant Earring Heritage 015",
+    "description": "Exquisite 925 Sterling Silver earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-365.webp",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "earring",
+    "code": "TM-S-E-016",
+    "name": "Opulent Earring Motif 016",
+    "description": "Exquisite Oxidized Silver earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-366.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "earring",
+    "code": "TM-S-E-017",
+    "name": "Delicate Earring Series 017",
+    "description": "Exquisite Handcrafted Silver earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-367.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "earring",
+    "code": "TM-S-E-018",
+    "name": "Classic Earring Collection 018",
+    "description": "Exquisite 925 Sterling Silver earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-368.png",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "earring",
+    "code": "TM-S-E-019",
+    "name": "Modern Earring Design 019",
+    "description": "Exquisite Oxidized Silver earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-369.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "earring",
+    "code": "TM-S-E-020",
+    "name": "Lunar Earring Craft 020",
+    "description": "Exquisite Handcrafted Silver earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-370.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "earring",
+    "code": "TM-S-E-021",
+    "name": "Celestial Earring Artistry 021",
+    "description": "Exquisite 925 Sterling Silver earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-371.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "earring",
+    "code": "TM-S-E-022",
+    "name": "Mystic Earring Elegance 022",
+    "description": "Exquisite Oxidized Silver earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-372.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "earring",
+    "code": "TM-S-E-023",
+    "name": "Ethereal Earring Heritage 023",
+    "description": "Exquisite Handcrafted Silver earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-373.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "earring",
+    "code": "TM-S-E-024",
+    "name": "Serene Earring Motif 024",
+    "description": "Exquisite 925 Sterling Silver earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-374.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "earring",
+    "code": "TM-S-E-025",
+    "name": "Radiant Earring Series 025",
+    "description": "Exquisite Oxidized Silver earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-375.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "earring",
+    "code": "TM-S-E-026",
+    "name": "Opulent Earring Collection 026",
+    "description": "Exquisite Handcrafted Silver earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-376.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "earring",
+    "code": "TM-S-E-027",
+    "name": "Delicate Earring Design 027",
+    "description": "Exquisite 925 Sterling Silver earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-377.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "earring",
+    "code": "TM-S-E-028",
+    "name": "Classic Earring Craft 028",
+    "description": "Exquisite Oxidized Silver earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-378.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "earring",
+    "code": "TM-S-E-029",
+    "name": "Modern Earring Artistry 029",
+    "description": "Exquisite Handcrafted Silver earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-379.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "earring",
+    "code": "TM-S-E-030",
+    "name": "Lunar Earring Elegance 030",
+    "description": "Exquisite 925 Sterling Silver earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-380.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "earring",
+    "code": "TM-S-E-031",
+    "name": "Celestial Earring Heritage 031",
+    "description": "Exquisite Oxidized Silver earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-381.png",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "earring",
+    "code": "TM-S-E-032",
+    "name": "Mystic Earring Motif 032",
+    "description": "Exquisite Handcrafted Silver earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-382.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "earring",
+    "code": "TM-S-E-033",
+    "name": "Ethereal Earring Series 033",
+    "description": "Exquisite 925 Sterling Silver earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-383.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "earring",
+    "code": "TM-S-E-035",
+    "name": "Radiant Earring Design 035",
+    "description": "Exquisite Handcrafted Silver earring featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-385.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "bracelet",
+    "code": "TM-S-B-001",
+    "name": "Celestial Bracelet Series 001",
+    "description": "Exquisite Oxidized Silver bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-401.jpg",
+    "badge": "Bestseller"
+  },
+  {
+    "material": "silver",
+    "type": "bracelet",
+    "code": "TM-S-B-002",
+    "name": "Mystic Bracelet Collection 002",
+    "description": "Exquisite Handcrafted Silver bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-402.jpg",
+    "badge": "Limited Edition"
+  },
+  {
+    "material": "silver",
+    "type": "bracelet",
+    "code": "TM-S-B-003",
+    "name": "Ethereal Bracelet Design 003",
+    "description": "Exquisite 925 Sterling Silver bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-403.jpg",
+    "badge": "Festive Special"
+  },
+  {
+    "material": "silver",
+    "type": "bracelet",
+    "code": "TM-S-B-004",
+    "name": "Serene Bracelet Craft 004",
+    "description": "Exquisite Oxidized Silver bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-404.jpg",
+    "badge": "Premium"
+  },
+  {
+    "material": "silver",
+    "type": "bracelet",
+    "code": "TM-S-B-005",
+    "name": "Radiant Bracelet Artistry 005",
+    "description": "Exquisite Handcrafted Silver bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-405.jpg",
+    "badge": "New Collection"
+  },
+  {
+    "material": "silver",
+    "type": "bracelet",
+    "code": "TM-S-B-006",
+    "name": "Opulent Bracelet Elegance 006",
+    "description": "Exquisite 925 Sterling Silver bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-406.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "bracelet",
+    "code": "TM-S-B-007",
+    "name": "Delicate Bracelet Heritage 007",
+    "description": "Exquisite Oxidized Silver bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-407.png",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "bracelet",
+    "code": "TM-S-B-008",
+    "name": "Classic Bracelet Motif 008",
+    "description": "Exquisite Handcrafted Silver bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-408.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "bracelet",
+    "code": "TM-S-B-009",
+    "name": "Modern Bracelet Series 009",
+    "description": "Exquisite 925 Sterling Silver bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-409.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "bracelet",
+    "code": "TM-S-B-010",
+    "name": "Lunar Bracelet Collection 010",
+    "description": "Exquisite Oxidized Silver bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-410.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "bracelet",
+    "code": "TM-S-B-011",
+    "name": "Celestial Bracelet Design 011",
+    "description": "Exquisite Handcrafted Silver bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-411.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "bracelet",
+    "code": "TM-S-B-012",
+    "name": "Mystic Bracelet Craft 012",
+    "description": "Exquisite 925 Sterling Silver bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-412.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "bracelet",
+    "code": "TM-S-B-013",
+    "name": "Ethereal Bracelet Artistry 013",
+    "description": "Exquisite Oxidized Silver bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-413.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "bracelet",
+    "code": "TM-S-B-014",
+    "name": "Serene Bracelet Elegance 014",
+    "description": "Exquisite Handcrafted Silver bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-414.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "bracelet",
+    "code": "TM-S-B-015",
+    "name": "Radiant Bracelet Heritage 015",
+    "description": "Exquisite 925 Sterling Silver bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-415.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "bracelet",
+    "code": "TM-S-B-016",
+    "name": "Opulent Bracelet Motif 016",
+    "description": "Exquisite Oxidized Silver bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-416.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "bracelet",
+    "code": "TM-S-B-017",
+    "name": "Delicate Bracelet Series 017",
+    "description": "Exquisite Handcrafted Silver bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-417.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "bracelet",
+    "code": "TM-S-B-018",
+    "name": "Classic Bracelet Collection 018",
+    "description": "Exquisite 925 Sterling Silver bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-418.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "bracelet",
+    "code": "TM-S-B-019",
+    "name": "Modern Bracelet Design 019",
+    "description": "Exquisite Oxidized Silver bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-419.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "bracelet",
+    "code": "TM-S-B-020",
+    "name": "Lunar Bracelet Craft 020",
+    "description": "Exquisite Handcrafted Silver bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-420.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "bracelet",
+    "code": "TM-S-B-021",
+    "name": "Celestial Bracelet Artistry 021",
+    "description": "Exquisite 925 Sterling Silver bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-421.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "bracelet",
+    "code": "TM-S-B-022",
+    "name": "Mystic Bracelet Elegance 022",
+    "description": "Exquisite Oxidized Silver bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-422.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "bracelet",
+    "code": "TM-S-B-023",
+    "name": "Ethereal Bracelet Heritage 023",
+    "description": "Exquisite Handcrafted Silver bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-423.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "bracelet",
+    "code": "TM-S-B-024",
+    "name": "Serene Bracelet Motif 024",
+    "description": "Exquisite 925 Sterling Silver bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-424.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "bracelet",
+    "code": "TM-S-B-025",
+    "name": "Radiant Bracelet Series 025",
+    "description": "Exquisite Oxidized Silver bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-425.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "bracelet",
+    "code": "TM-S-B-026",
+    "name": "Opulent Bracelet Collection 026",
+    "description": "Exquisite Handcrafted Silver bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-426.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "bracelet",
+    "code": "TM-S-B-027",
+    "name": "Delicate Bracelet Design 027",
+    "description": "Exquisite 925 Sterling Silver bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-427.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "bracelet",
+    "code": "TM-S-B-028",
+    "name": "Classic Bracelet Craft 028",
+    "description": "Exquisite Oxidized Silver bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-428.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "bracelet",
+    "code": "TM-S-B-029",
+    "name": "Modern Bracelet Artistry 029",
+    "description": "Exquisite Handcrafted Silver bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-429.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "bracelet",
+    "code": "TM-S-B-030",
+    "name": "Lunar Bracelet Elegance 030",
+    "description": "Exquisite 925 Sterling Silver bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-430.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "bracelet",
+    "code": "TM-S-B-031",
+    "name": "Celestial Bracelet Heritage 031",
+    "description": "Exquisite Oxidized Silver bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-431.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "bracelet",
+    "code": "TM-S-B-032",
+    "name": "Mystic Bracelet Motif 032",
+    "description": "Exquisite Handcrafted Silver bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-432.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "bracelet",
+    "code": "TM-S-B-033",
+    "name": "Ethereal Bracelet Series 033",
+    "description": "Exquisite 925 Sterling Silver bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-433.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "bracelet",
+    "code": "TM-S-B-034",
+    "name": "Serene Bracelet Collection 034",
+    "description": "Exquisite Oxidized Silver bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-434.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "bracelet",
+    "code": "TM-S-B-035",
+    "name": "Radiant Bracelet Design 035",
+    "description": "Exquisite Handcrafted Silver bracelet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-435.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "anklet",
+    "code": "TM-S-A-001",
+    "name": "Celestial Anklet Series 001",
+    "description": "Exquisite Oxidized Silver anklet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-451.jpg",
+    "badge": "Bestseller"
+  },
+  {
+    "material": "silver",
+    "type": "anklet",
+    "code": "TM-S-A-002",
+    "name": "Mystic Anklet Collection 002",
+    "description": "Exquisite Handcrafted Silver anklet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-452.jpg",
+    "badge": "Limited Edition"
+  },
+  {
+    "material": "silver",
+    "type": "anklet",
+    "code": "TM-S-A-003",
+    "name": "Ethereal Anklet Design 003",
+    "description": "Exquisite 925 Sterling Silver anklet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-453.jpg",
+    "badge": "Festive Special"
+  },
+  {
+    "material": "silver",
+    "type": "anklet",
+    "code": "TM-S-A-004",
+    "name": "Serene Anklet Craft 004",
+    "description": "Exquisite Oxidized Silver anklet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-454.jpg",
+    "badge": "Premium"
+  },
+  {
+    "material": "silver",
+    "type": "anklet",
+    "code": "TM-S-A-005",
+    "name": "Radiant Anklet Artistry 005",
+    "description": "Exquisite Handcrafted Silver anklet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-455.jpg",
+    "badge": "New Collection"
+  },
+  {
+    "material": "silver",
+    "type": "anklet",
+    "code": "TM-S-A-006",
+    "name": "Opulent Anklet Elegance 006",
+    "description": "Exquisite 925 Sterling Silver anklet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-456.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "anklet",
+    "code": "TM-S-A-007",
+    "name": "Delicate Anklet Heritage 007",
+    "description": "Exquisite Oxidized Silver anklet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-457.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "anklet",
+    "code": "TM-S-A-008",
+    "name": "Classic Anklet Motif 008",
+    "description": "Exquisite Handcrafted Silver anklet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-458.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "anklet",
+    "code": "TM-S-A-010",
+    "name": "Lunar Anklet Collection 010",
+    "description": "Exquisite Oxidized Silver anklet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-460.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "anklet",
+    "code": "TM-S-A-011",
+    "name": "Celestial Anklet Design 011",
+    "description": "Exquisite Handcrafted Silver anklet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-461.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "anklet",
+    "code": "TM-S-A-012",
+    "name": "Mystic Anklet Craft 012",
+    "description": "Exquisite 925 Sterling Silver anklet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-462.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "anklet",
+    "code": "TM-S-A-013",
+    "name": "Ethereal Anklet Artistry 013",
+    "description": "Exquisite Oxidized Silver anklet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-463.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "anklet",
+    "code": "TM-S-A-014",
+    "name": "Serene Anklet Elegance 014",
+    "description": "Exquisite Handcrafted Silver anklet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-464.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "anklet",
+    "code": "TM-S-A-015",
+    "name": "Radiant Anklet Heritage 015",
+    "description": "Exquisite 925 Sterling Silver anklet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-465.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "anklet",
+    "code": "TM-S-A-016",
+    "name": "Opulent Anklet Motif 016",
+    "description": "Exquisite Oxidized Silver anklet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-466.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "anklet",
+    "code": "TM-S-A-017",
+    "name": "Delicate Anklet Series 017",
+    "description": "Exquisite Handcrafted Silver anklet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-467.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "anklet",
+    "code": "TM-S-A-018",
+    "name": "Classic Anklet Collection 018",
+    "description": "Exquisite 925 Sterling Silver anklet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-468.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "anklet",
+    "code": "TM-S-A-019",
+    "name": "Modern Anklet Design 019",
+    "description": "Exquisite Oxidized Silver anklet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-469.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "anklet",
+    "code": "TM-S-A-020",
+    "name": "Lunar Anklet Craft 020",
+    "description": "Exquisite Handcrafted Silver anklet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-470.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "anklet",
+    "code": "TM-S-A-021",
+    "name": "Celestial Anklet Artistry 021",
+    "description": "Exquisite 925 Sterling Silver anklet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-471.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "anklet",
+    "code": "TM-S-A-022",
+    "name": "Mystic Anklet Elegance 022",
+    "description": "Exquisite Oxidized Silver anklet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-472.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "anklet",
+    "code": "TM-S-A-023",
+    "name": "Ethereal Anklet Heritage 023",
+    "description": "Exquisite Handcrafted Silver anklet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-473.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "anklet",
+    "code": "TM-S-A-024",
+    "name": "Serene Anklet Motif 024",
+    "description": "Exquisite 925 Sterling Silver anklet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-474.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "anklet",
+    "code": "TM-S-A-025",
+    "name": "Radiant Anklet Series 025",
+    "description": "Exquisite Oxidized Silver anklet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-475.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "anklet",
+    "code": "TM-S-A-026",
+    "name": "Opulent Anklet Collection 026",
+    "description": "Exquisite Handcrafted Silver anklet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-476.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "anklet",
+    "code": "TM-S-A-027",
+    "name": "Delicate Anklet Design 027",
+    "description": "Exquisite 925 Sterling Silver anklet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-477.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "anklet",
+    "code": "TM-S-A-028",
+    "name": "Classic Anklet Craft 028",
+    "description": "Exquisite Oxidized Silver anklet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-478.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "anklet",
+    "code": "TM-S-A-029",
+    "name": "Modern Anklet Artistry 029",
+    "description": "Exquisite Handcrafted Silver anklet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-479.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "anklet",
+    "code": "TM-S-A-030",
+    "name": "Lunar Anklet Elegance 030",
+    "description": "Exquisite 925 Sterling Silver anklet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-480.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "anklet",
+    "code": "TM-S-A-031",
+    "name": "Celestial Anklet Heritage 031",
+    "description": "Exquisite Oxidized Silver anklet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-481.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "anklet",
+    "code": "TM-S-A-032",
+    "name": "Mystic Anklet Motif 032",
+    "description": "Exquisite Handcrafted Silver anklet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-482.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "anklet",
+    "code": "TM-S-A-033",
+    "name": "Ethereal Anklet Series 033",
+    "description": "Exquisite 925 Sterling Silver anklet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. A perfect statement piece for special occasions.",
+    "image": "/uploads/product-483.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "anklet",
+    "code": "TM-S-A-034",
+    "name": "Serene Anklet Collection 034",
+    "description": "Exquisite Oxidized Silver anklet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Designed for the discerning connoisseur.",
+    "image": "/uploads/product-484.jpg",
+    "badge": ""
+  },
+  {
+    "material": "silver",
+    "type": "anklet",
+    "code": "TM-S-A-035",
+    "name": "Radiant Anklet Design 035",
+    "description": "Exquisite Handcrafted Silver anklet featuring intricate hand-finished detailing, crafted for timeless elegance and everyday sophistication. Blends traditional craftsmanship with contemporary style.",
+    "image": "/uploads/product-485.jpg",
+    "badge": ""
+  }
+]

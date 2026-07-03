@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" type="image/png" href="images/tj.png" />
+<title>Thangamalar Jewellers – Timeless Craftsmanship</title>
+<meta name="description" content="Thangamalar Jewellers, Aranthangi – Heritage gold and silver jewellery crafted since 1994." />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400;1,600&family=Jost:wght@300;400;500;600&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+<!-- ═══ NAV ═══ -->
+<nav id="nav">
+  <a class="nav-logo" onclick="navigate('home')">
+    <img src="images/tj.png" alt="Thangamalar Jewellers Logo" />
+    <span>Thangamalar</span> Jewellers
+  </a>
+  <ul class="nav-links" id="navLinks">
+    <li><a onclick="navigate('home')" data-page="home">Home</a></li>
+    <li><a onclick="navigate('about')" data-page="about">About Us</a></li>
+    <li><a onclick="navigate('collections')" data-page="collections">Collections</a></li>
+    <li><a onclick="navigate('catalog')" data-page="catalog">Catalog</a></li>
+    <li><a onclick="navigate('contact')" data-page="contact">Contact Us</a></li>
+  </ul>
+  <div style="display:flex;align-items:center;gap:20px">
+    <span class="nav-icon" title="Search" onclick="navigate('catalog')">&#9740;</span>
+    <div class="nav-hamburger" onclick="toggleMobileMenu()" id="hamburger">
+      <span></span><span></span><span></span>
+    </div>
+  </div>
+</nav>
+
+<!-- ═══════════════════════════════════════
+     PAGE: HOME
+═══════════════════════════════════════ -->
+<div class="page active" id="page-home">
+
+  <section class="hero">
+    <div class="hero-bg"></div>
+    <div class="hero-img-wrap"></div>
+    <div class="hero-overlay"></div>
+    <div class="hero-content">
+      <div class="hero-eyebrow">Est. 1994 &nbsp;·&nbsp; Aranthangi, Tamil Nadu</div>
+      <h1 class="hero-title">Timeless<br><em>Craftsmanship</em><br>Eternal Purity.</h1>
+      <p class="hero-sub">Discover the legacy of Thangamalar — where every piece tells a story of tradition, heritage, and infinite beauty.</p>
+      <div class="hero-ctas">
+        <a class="btn-primary" onclick="navigate('collections')">View Collections</a>
+        <a class="btn-outline light" onclick="navigate('catalog')">Browse Catalog</a>
+      </div>
+    </div>
+    <div class="hero-badge"><strong>30+</strong>Years of Trust</div>
+    <div class="hero-scroll"><div class="hero-scroll-line"></div><span>Scroll</span></div>
+  </section>
+
+  <section class="curators">
+    <div class="curators-header"><div class="eyebrow" style="color:var(--gold-light)">Featured</div><h2 class="section-title light">The Curator's Choice</h2></div>
+    <div class="curators-grid">
+      <div class="curator-card fade-up">
+        <img src="images/img2.png" alt="Gold Collection" loading="lazy">
+        <div class="curator-overlay"><div class="curator-label">Signature Series</div><h3 class="curator-name">Gold Collection</h3><a class="curator-explore" onclick="navigate('collections')">Explore More &rarr;</a></div>
+      </div>
+      <div class="curator-card fade-up">
+        <img src="images/img3.jpg" alt="Silver Collection" loading="lazy">
+        <div class="curator-overlay"><div class="curator-label">Sterling Artistry</div><h3 class="curator-name">Silver Collection</h3><a class="curator-explore" onclick="navigate('collections')">Explore More &rarr;</a></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="bridal">
+    <div class="bridal-img"></div>
+    <div class="bridal-content fade-up">
+      <div class="eyebrow">The Bridal Edit</div>
+      <h2 class="section-title">Masterpieces for Your Most Special Day</h2>
+      <div class="gold-rule"></div>
+      <p class="section-sub">Our bridal ensembles are designed to make you feel like royalty. From traditional temple jewelry to contemporary fusion pieces, we craft memories that last forever.</p>
+      <a class="btn-primary" style="margin-top:32px" onclick="navigate('contact')">Book a Consultation &nbsp;&#x1F4C5;</a>
+    </div>
+  </section>
+
+  <section class="trust">
+    <div class="trust-grid">
+      <div class="trust-item fade-up"><div class="trust-icon"><svg viewBox="0 0 24 24"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87L18.18 21 12 17.77 5.82 21 7 14.14 2 9.27l6.91-1.01L12 2z"/></svg></div><h3>Purity Guaranteed</h3><p>Every gram is accounted for with absolute precision and honesty.</p></div>
+      <div class="trust-item fade-up"><div class="trust-icon"><svg viewBox="0 0 24 24"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg></div><h3>Hallmark Certified</h3><p>BIS Hallmark certification ensures international quality standards.</p></div>
+      <div class="trust-item fade-up"><div class="trust-icon"><svg viewBox="0 0 24 24"><path d="M14.7 6.3a1 1 0 000 1.4l1.6 1.6a1 1 0 001.4 0l3.77-3.77a6 6 0 01-7.94 7.94l-6.91 6.91a2.12 2.12 0 01-3-3l6.91-6.91a6 6 0 017.94-7.94l-3.76 3.76z"/></svg></div><h3>Master Craftsmanship</h3><p>Hand-finished by second-generation artisans of Aranthangi.</p></div>
+      <div class="trust-item fade-up"><div class="trust-icon"><svg viewBox="0 0 24 24"><rect x="2" y="7" width="20" height="14" rx="2" ry="2"/><path d="M16 21V5a2 2 0 00-2-2h-4a2 2 0 00-2 2v16"/></svg></div><h3>25+ Years of Trust</h3><p>A legacy built on generations of satisfied families across Tamil Nadu.</p></div>
+    </div>
+  </section>
+
+  <section class="testimonials">
+    <div class="testi-wrap">
+      <div class="eyebrow" style="margin-bottom:8px">Voices of Elegance</div>
+      <h2 class="section-title" style="margin-bottom:40px">What Our Patrons Say</h2>
+      <div id="testiCards">
+        <div class="testi-card active"><div class="testi-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div><p class="testi-quote">"The bridal set I purchased for my daughter's wedding was nothing short of a masterpiece. The staff at Thangamalar treat you like family."</p><div class="testi-author">— Rajeshwari Anandan, Chennai</div></div>
+        <div class="testi-card"><div class="testi-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div><p class="testi-quote">"I've been a customer for over 15 years. The quality of their gold jewellery and the trust they maintain is unmatched anywhere in Tamil Nadu."</p><div class="testi-author">— Meenakshi Sundaram, Trichy</div></div>
+        <div class="testi-card"><div class="testi-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div><p class="testi-quote">"Their silver collection is breathtaking. Every piece tells a story of heritage and modern elegance. Couldn't be happier with my anniversary gift."</p><div class="testi-author">— Karthikeyan Pillai, Aranthangi</div></div>
+      </div>
+      <div class="testi-dots" id="testiDots">
+        <button class="testi-dot active" onclick="goTesti(0)"></button>
+        <button class="testi-dot" onclick="goTesti(1)"></button>
+        <button class="testi-dot" onclick="goTesti(2)"></button>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="footer-grid">
+      <div class="footer-brand"><div class="nav-logo"><span>Thangamalar</span></div><p>Thangamalar Jewellers, Thiyagi Srinivasa Pillai St., Aranthangi, Tamil Nadu 614616.</p></div>
+      <div class="footer-col"><h4>Collections</h4><ul><li><a onclick="navigate('collections')">Temple Jewellery</a></li><li><a onclick="navigate('collections')">Bridal Collection</a></li><li><a onclick="navigate('collections')">Daily Wear</a></li><li><a onclick="navigate('catalog')">View Catalog</a></li></ul></div>
+      <div class="footer-col"><h4>Company</h4><ul><li><a onclick="navigate('about')">Our Heritage</a></li><li><a onclick="navigate('contact')">Contact Us</a></li><li><a href="#">Privacy Policy</a></li><li><a href="#">Terms of Service</a></li><li><a href="#">Shipping Info</a></li></ul></div>
+      <div class="footer-col"><h4>Newsletter</h4><p style="font-size:0.82rem;line-height:1.7;margin-bottom:14px">Stay updated with our latest collections and exclusive offers.</p><div class="footer-newsletter"><input type="email" placeholder="Email Address" id="footerEmail"><button onclick="subscribeNewsletter()" title="Subscribe">&#x2192;</button></div></div>
+    </div>
+    <div class="footer-bottom"><span>&copy; 2024 Thangamalar Jewellers, Aranthangi, Tamil Nadu. All Rights Reserved.</span><div style="display:flex;gap:16px"><span style="font-size:0.9rem;cursor:pointer" title="Instagram" onclick="alert('Follow us on Instagram: @thangamalarjewellers')">&#9670;</span><span style="font-size:0.9rem;cursor:pointer" title="Facebook" onclick="alert('Like us on Facebook: Thangamalar Jewellers')">&#9670;</span></div></div>
+  </footer>
+</div>
+
+<!-- ═══════════════════════════════════════
+     PAGE: ABOUT
+═══════════════════════════════════════ -->
+<div class="page" id="page-about">
+  <section class="about-hero"><div class="about-hero-img"></div><div class="about-hero-content"><div class="eyebrow" style="margin-bottom:16px">Our Story</div><h1 class="section-title" style="color:#fff;font-size:clamp(2.5rem,5vw,4.5rem)">The Aranthangi Heritage</h1></div></section>
+
+  <section class="heritage">
+    <div class="heritage-inner">
+      <div class="heritage-img fade-up"><img src="images/ap1.png" alt="Artisan at work" loading="lazy"></div>
+      <div class="fade-up"><div class="eyebrow">Founded in Historic Aranthangi</div><h2 class="section-title">The Aranthangi Heritage</h2><div class="gold-rule"></div><p class="section-sub" style="margin-bottom:16px">Founded in the historic town of Aranthangi, Tamil Nadu, Thangamalar Jewellers began as a vision to honor the rich tradition of South Indian goldsmithing. What started as a modest atelier has blossomed into a sanctuary for those who seek uncompromising purity and artistic brilliance.</p><p class="section-sub">For generations, we have served the community not just as merchants, but as custodians of their most precious memories. Our artisans blend ancient techniques passed down through centuries with modern design sensibilities to create pieces that are both timeless and relevant.</p><div class="heritage-stats"><div class="heritage-stat"><strong>30+</strong><span>Years of Experience</span></div><div class="heritage-stat"><strong>10K+</strong><span>Crafted Legacies</span></div></div></div>
+    </div>
+  </section>
+
+  <section class="purity">
+    <div class="eyebrow">Our Commitment</div>
+    <h2 class="purity-title">Purity Beyond Doubt</h2>
+    <p class="purity-sub">Our commitment to transparency is reflected in our rigorous certification processes.</p>
+    <div class="purity-grid">
+      <div class="purity-card fade-up"><div class="purity-icon">&#127750;</div><h3>BIS Hallmark</h3><p>Every gold piece at Thangamalar is 100% BIS-stamped, ensuring the exact karatage and purity promised.</p></div>
+      <div class="purity-card fade-up"><div class="purity-icon">&#9775;</div><h3>Carat Checking</h3><p>We utilize advanced Karatmeter technology to provide instant, non-destructive purity testing for total peace of mind.</p></div>
+      <div class="purity-card fade-up"><div class="purity-icon">&#128142;</div><h3>IGI Certified</h3><p>Our precious stones are accompanied by IGI or GIA certification detailing every facet of their quality and origin.</p></div>
+    </div>
+  </section>
+
+  <section class="showroom-split">
+    <div class="showroom-img"></div>
+    <div class="showroom-content"><div class="eyebrow" style="color:var(--gold-light)">Our Space</div><h2 class="section-title light" style="font-size:clamp(1.8rem,3vw,2.8rem)">"True beauty is found in the precision of the unseen."</h2><div class="gold-rule"></div><p style="font-size:0.85rem;color:rgba(255,255,255,0.55);font-style:italic;margin-bottom:24px">— Our Head Artisan</p><ul class="showroom-list"><li>Private Consultation Suites</li><li>Expert Gemologists on Site</li><li>Valet Parking Available</li><li>Complimentary Cleaning & Polishing</li></ul></div>
+  </section>
+
+  <section class="promise">
+    <div class="promise-header fade-up"><div class="eyebrow">Our Values</div><h2 class="section-title">The Thangamalar Promise</h2></div>
+    <div class="promise-grid">
+      <div class="promise-item fade-up"><div class="p-icon">&#128100;</div><h4>Transparent Buyback</h4><p>Highest value for your old jewellery.</p></div>
+      <div class="promise-item fade-up"><div class="p-icon">&#128295;</div><h4>Lifetime Maintenance</h4><p>Complimentary cleaning and polishing services.</p></div>
+      <div class="promise-item fade-up"><div class="p-icon">&#128666;</div><h4>Transit Insurance</h4><p>Fully insured delivery for all online orders.</p></div>
+      <div class="promise-item fade-up"><div class="p-icon">&#10024;</div><h4>Custom Designs</h4><p>Your imagination, our artisans, a golden reality.</p></div>
+    </div>
+  </section>
+
+  <section class="cta-banner">
+    <div class="eyebrow" style="color:var(--gold-light)">Begin Your Journey</div>
+    <h2 class="section-title light">Ready to Start Your Own Legacy?</h2>
+    <p class="section-sub light" style="margin:12px auto 36px;text-align:center">Visit our flagship showroom in Aranthangi or browse our digital catalog to find the piece that speaks to your heart.</p>
+    <div class="cta-actions"><a class="btn-primary" onclick="navigate('contact')">Book a Private Viewing</a><a class="btn-outline light" onclick="navigate('catalog')">View Catalog</a></div>
+  </section>
+
+  <footer>
+    <div class="footer-grid">
+      <div class="footer-brand"><div class="nav-logo"><span>Thangamalar</span> Jewellers</div><p>Curating excellence in traditional and contemporary fine jewelry since generations.</p></div>
+      <div class="footer-col"><h4>Explore</h4><ul><li><a onclick="navigate('collections')">Latest Collections</a></li><li><a href="#">Gift Cards</a></li><li><a onclick="navigate('contact')">Store Locator</a></li><li><a onclick="navigate('about')">Our History</a></li></ul></div>
+      <div class="footer-col"><h4>Customer Care</h4><ul><li><a href="#">Privacy Policy</a></li><li><a href="#">Terms of Service</a></li><li><a href="#">Shipping Info</a></li><li><a onclick="navigate('contact')">Contact Support</a></li></ul></div>
+      <div class="footer-col"><h4>Visit Us</h4><p style="font-size:0.82rem;line-height:1.75">Main Road, Aranthangi,<br>Thiyagi Srinivasa Pillai St.,<br>Tamil Nadu 614616.</p><div style="display:flex;gap:12px;margin-top:14px;font-size:0.9rem"><span style="cursor:pointer" onclick="alert('@thangamalarjewellers')">&#9670; Instagram</span><span style="cursor:pointer" onclick="alert('Thangamalar Jewellers')">&#9670; Facebook</span></div></div>
+    </div>
+    <div class="footer-bottom"><span>&copy; 2024 Thangamalar Jewellers, Aranthangi, Tamil Nadu. All Rights Reserved.</span></div>
+  </footer>
+</div>
+
+<!-- ═══════════════════════════════════════
+     PAGE: COLLECTIONS
+═══════════════════════════════════════ -->
+<div class="page" id="page-collections">
+  <section class="coll-hero"><div class="coll-hero-img"></div><div class="coll-hero-overlay"></div><div class="coll-hero-content"><div class="eyebrow" style="color:var(--gold-light)">Curated Masterpieces</div><div class="gold-rule" style="margin:12px auto 16px"></div><h1 class="section-title light" style="font-size:clamp(2.5rem,5vw,4rem)">The Collections</h1><p style="font-size:0.9rem;color:rgba(255,255,255,0.55);max-width:520px;margin:16px auto 0;text-align:center;line-height:1.75">Journey through our signature realms of gold and silver. Each piece is a testament to our four-decade legacy of craftsmanship.</p></div></section>
+
+  <section class="coll-split"><div class="coll-split-img fade-up"><img src="images/cl1.png" alt="Gold Collection" loading="lazy" style="height:100%;object-fit:cover"></div><div class="coll-split-content fade-up"><div class="eyebrow">Signature 22K</div><h2 class="section-title">Gold Collection</h2><div class="gold-rule"></div><p class="section-sub" style="margin-bottom:16px">Pure 22K(916 HUID HALLMARK JEWELS) Gold, reimagined for the modern era. Each piece tells a story of heritage blended with contemporary fluidity, handcrafted by master goldsmiths to adorn the bold and the beautiful.</p><p class="section-sub">Experience the warmth of tradition in every link and filigree, from grand temple necklaces to delicate everyday wear.</p><a class="view-cat-link" onclick="filterCatalog('gold')">View Full Catalogue &rarr;</a></div></section>
+
+  <section class="coll-split reverse" style="background:var(--stone)"><div class="coll-split-img fade-up"><img src="images/cl2.png" alt="Silver Collection" loading="lazy" style="height:100%;object-fit:cover"></div><div class="coll-split-content fade-up"><div class="eyebrow">Sterling Artistry</div><h2 class="section-title">Silver Collection</h2><div class="gold-rule"></div><p class="section-sub" style="margin-bottom:16px">92.5 pure hallmarked silver Ethereal silver artifacts and jewelry for every occasion. From sculptural home décor that commands attention to delicate everyday wear, our silver collection reflects a cool, moonlit sophistication.</p><p class="section-sub">A sophistication that transcends fleeting trends.</p><a class="view-cat-link" onclick="filterCatalog('silver')">View Full Catalogue &rarr;</a></div></section>
+
+  <section class="coll-legacy"><div class="eyebrow">Bespoke Creations</div><h2 class="section-title" style="margin-bottom:16px">Craft Your Legacy</h2><p class="section-sub" style="margin:0 auto 36px;text-align:center">Beyond our curated collections lies the possibility of something truly unique. Connect with our master artisans to create a custom piece that speaks to your unique story and heritage.</p><a class="btn-primary" onclick="navigate('contact')">Book a Consultation</a></section>
+
+  <footer>
+    <div class="footer-grid">
+      <div class="footer-brand"><div class="nav-logo"><span>Thangamalar</span></div><p>Preserving the art of South Indian goldsmithing for generations.</p></div>
+      <div class="footer-col"><h4>Navigation</h4><ul><li><a onclick="navigate('home')">Home</a></li><li><a onclick="navigate('collections')">Collections</a></li><li><a onclick="navigate('about')">The Brand</a></li><li><a onclick="navigate('catalog')">Catalog</a></li></ul></div>
+      <div class="footer-col"><h4>Support</h4><ul><li><a href="#">Privacy Policy</a></li><li><a href="#">Terms of Service</a></li><li><a href="#">Shipping Info</a></li><li><a onclick="navigate('contact')">Store Locator</a></li></ul></div>
+      <div class="footer-col"><h4>Newsletter</h4><p style="font-size:0.82rem;line-height:1.7;margin-bottom:14px">Enter your email for exclusive previews.</p><div class="footer-newsletter"><input type="email" placeholder="Issue Email" id="collEmail"><button onclick="subscribeNewsletter()" title="Subscribe">&#x2192;</button></div></div>
+    </div>
+    <div class="footer-bottom"><span>&copy; 2024 Thangamalar Jewellers, Aranthangi, Tamil Nadu. All Rights Reserved.</span></div>
+  </footer>
+</div>
+
+<!-- ═══════════════════════════════════════
+     PAGE: CATALOG
+═══════════════════════════════════════ -->
+<div class="page" id="page-catalog">
+  <div class="cat-header">
+    <div class="cat-title-row"><h1 class="section-title">Our Masterpieces</h1><p class="section-sub">Discover an exquisite curation of heritage craftsmanship, where every piece tells a story of tradition, elegance, and infinite beauty.</p></div>
+    <div class="cat-controls">
+      <div class="cat-search"><span class="search-icon">&#9740;</span><input type="text" placeholder="Search by name or code..." id="catSearch" oninput="filterProducts()"></div>
+      <div class="cat-filters">
+        <select class="cat-type-select" id="materialFilter" onchange="filterProducts()"><option value="all">All Materials</option><option value="gold">Gold</option><option value="silver">Silver</option></select>
+        <select class="cat-type-select" id="typeFilter" onchange="filterProducts()"><option value="all">All Types</option><option value="ring">Rings</option><option value="necklace">Necklaces</option><option value="earring">Earrings</option><option value="bracelet">Bracelets</option><option value="anklet">Anklets</option><option value="gifts">Gifts</option></select>
+      </div>
+    </div>
+  </div>
+  <div class="cat-grid" id="catGrid"><div class="cat-loading" id="catLoading">Loading products...</div></div>
+
+  <footer>
+    <div class="footer-grid">
+      <div class="footer-brand"><div class="nav-logo"><span>Thangamalar</span></div><p>Aranthangi's finest jewelry destination since 1994, dedicated to preserving the art of traditional craftsmanship.</p></div>
+      <div class="footer-col"><h4>Collections</h4><ul><li><a onclick="navigate('collections')">Temple Jewellery</a></li><li><a onclick="navigate('collections')">Bridal Collection</a></li><li><a onclick="navigate('collections')">Daily Wear</a></li></ul></div>
+      <div class="footer-col"><h4>Company</h4><ul><li><a href="#">Privacy Policy</a></li><li><a href="#">Terms of Service</a></li><li><a href="#">Shipping Info</a></li><li><a onclick="navigate('contact')">Store Locator</a></li></ul></div>
+      <div class="footer-col"><h4>Newsletter</h4><p style="font-size:0.82rem;line-height:1.7;margin-bottom:14px">Stay updated with our latest collections and exclusive offers.</p><div class="footer-newsletter"><input type="email" placeholder="Email Address" id="catEmail"><button onclick="subscribeNewsletter()">&#x2192;</button></div></div>
+    </div>
+    <div class="footer-bottom"><span>&copy; 2024 Thangamalar Jewellers, Aranthangi, Tamil Nadu. All Rights Reserved.</span></div>
+  </footer>
+</div>
+
+<!-- ═══════════════════════════════════════
+     PAGE: CONTACT
+═══════════════════════════════════════ -->
+<div class="page" id="page-contact">
+  <section class="contact-hero"><div class="contact-hero-bg"></div><div class="contact-hero-overlay"></div><div class="contact-hero-content"><h1 class="section-title" style="color:#fff;font-size:clamp(2.5rem,5vw,4rem)">Visit Our Showroom</h1><p>Experience the art of traditional craftsmanship in an atmosphere of modern luxury.</p><p style="color:var(--gold);font-size:0.95rem;letter-spacing:0.05em;margin-top:14px">&#9733;&#9733;&#9733;&#9733;&#9733; 4.9 &nbsp;·&nbsp; 17 Google Reviews</p></div></section>
+
+  <section class="contact-body">
+    <div class="contact-grid">
+      <div class="contact-info fade-up">
+        <h2>Reach Out</h2>
+        <p>Whether you're looking for a bespoke bridal collection or a timeless heirloom, our consultants are here to assist you.</p>
+        <div class="contact-detail"><div class="contact-detail-icon">&#9742;</div><div class="contact-detail-body"><strong>Phone</strong><span>+91 9788770981,+91 9942295917</span></div></div>
+        <div class="contact-detail"><div class="contact-detail-icon">&#128337;</div><div class="contact-detail-body"><strong>Store Hours</strong><span>Mon – Sat: 9:00 AM – 8:30 PM<br>Sunday: Closed</span></div></div>
+        <div class="contact-detail"><div class="contact-detail-icon">&#9993;</div><div class="contact-detail-body"><strong>Email</strong><span>thangamalarsvj@gmail.com</span></div></div>
+        <div class="contact-detail"><div class="contact-detail-icon">&#9679;</div><div class="contact-detail-body"><strong>Address</strong><span><a href="https://maps.google.com/maps?q=Thangamalar+Jewellers,Thiyagi+Srinivasa+Pillai+St,Aranthangi,Tamil+Nadu+614616" target="_blank" style="color:inherit;text-decoration:underline">Thiyagi, Srinivasa Pillai St, Aranthangi, Tamil Nadu 614616</a></span></div></div>
+        <div class="social-links"><a class="social-link" href="https://www.instagram.com/thangamalar.svj/" target="_blank">Instagram</a><!-- <a class="social-link" href="#" target="_blank">Facebook</a><a class="social-link" href="#" target="_blank">Pinterest</a>--></div>
+      </div>
+
+      <div class="enquiry-form fade-up">
+        <h2>Send an Enquiry</h2>
+        <div class="form-row"><div class="form-group"><label>Full Name</label><input type="text" id="cf-name" placeholder="Your name"></div><div class="form-group"><label>Email Address</label><input type="email" id="cf-email" placeholder="your@email.com"></div></div>
+        <div class="form-group"><label>Phone Number</label><input type="tel" id="cf-phone" placeholder="+91 XXXXX XXXXX"></div>
+        <div class="form-group"><label>Your Message</label><textarea id="cf-msg" placeholder="Tell us what you're looking for…"></textarea></div>
+        <button class="btn-primary" onclick="submitContactForm()" style="width:100%;justify-content:center">Send Message</button>
+        <div class="form-success" id="formSuccess"><p>&#10003; &nbsp; Thank you! We'll be in touch within 24 hours.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="contact-showroom" style="background:var(--off-white)">
+    <div class="showroom-text fade-up" style="max-width:100%">
+      <div class="eyebrow">What Our Customers Say</div>
+      <h2 class="section-title" style="font-size:clamp(2rem,4vw,3rem)">4.9 &#9733; on Google &nbsp;·&nbsp; 17 Reviews</h2>
+      <div class="gold-rule"></div>
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:24px;margin-top:32px">
+        <div style="background:#fff;padding:24px;border-radius:8px;border:1px solid #eee"><div style="color:var(--gold);margin-bottom:8px">&#9733;&#9733;&#9733;&#9733;&#9733;</div><p style="font-size:0.88rem;color:var(--mid);line-height:1.7">"Beautiful collection and honest pricing. The staff helped us pick the perfect bridal set — couldn't be happier."</p></div>
+        <div style="background:#fff;padding:24px;border-radius:8px;border:1px solid #eee"><div style="color:var(--gold);margin-bottom:8px">&#9733;&#9733;&#9733;&#9733;&#9733;</div><p style="font-size:0.88rem;color:var(--mid);line-height:1.7">"A trusted name in Aranthangi for generations. Excellent craftsmanship and great after-sales service."</p></div>
+        <div style="background:#fff;padding:24px;border-radius:8px;border:1px solid #eee"><div style="color:var(--gold);margin-bottom:8px">&#9733;&#9733;&#9733;&#9733;&#9733;</div><p style="font-size:0.88rem;color:var(--mid);line-height:1.7">"Lovely showroom and very polite staff. My go-to jeweller for every occasion."</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="map-section"><div class="map-inner"><iframe src="https://maps.google.com/maps?q=Thangamalar+Jewellers,Thiyagi+Srinivasa+Pillai+St,Aranthangi,Tamil+Nadu+614616&output=embed" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Thangamalar Jewellers Location"></iframe></div></section>
+
+  <section class="contact-showroom">
+    <div class="showroom-text fade-up"><div class="eyebrow">Our Space</div><h2 class="section-title" style="font-size:clamp(2rem,4vw,3rem)">Elegance in Every Corner</h2><div class="gold-rule"></div><p class="section-sub">Our Aranthangi showroom is more than just a store; it is a sanctuary for those who appreciate the finer things in life. Every corner is designed to provide an intimate and personalized jewelry viewing experience.</p><ul class="showroom-list" style="margin-top:24px"><li>Private Consultation Suites</li><li>Expert Gemologists on Site</li><li>Valet Parking Available</li></ul></div>
+    <div class="showroom-photo"></div>
+  </section>
+
+  <footer>
+    <div class="footer-grid">
+      <div class="footer-brand"><div class="nav-logo"><span>Thangamalar</span></div><p>Curating excellence in traditional and contemporary fine jewelry since generations.</p></div>
+      <div class="footer-col"><h4>Explore</h4><ul><li><a onclick="navigate('catalog')">Store Locator</a></li><li><a href="#">Shipping Info</a></li><li><a onclick="navigate('about')">Our Heritage</a></li></ul></div>
+      <div class="footer-col"><h4>Assistance</h4><ul><li><a href="#">Privacy Policy</a></li><li><a href="#">Terms of Service</a></li><li><a href="#">FAQ</a></li></ul></div>
+      <div class="footer-col"><h4>Subscribe</h4><p style="font-size:0.82rem;line-height:1.7;margin-bottom:14px">Join our inner circle for exclusive previews.</p><div class="footer-newsletter"><input type="email" placeholder="Issue Email" id="ctEmail"><button onclick="subscribeNewsletter()">&#x2192;</button></div></div>
+    </div>
+    <div class="footer-bottom"><span>&copy; 2024 Thangamalar Jewellers, Aranthangi, Tamil Nadu. All Rights Reserved.</span><div style="display:flex;gap:12px;font-size:1rem"><!--<span style="cursor:pointer" onclick="alert('Instagram')">&#9670;</span><span style="cursor:pointer" onclick="alert('Facebook')">&#9670;</span>--></div></div>
+  </footer>
+</div>
+
+<!-- ═══ ENQUIRY MODAL ═══ -->
+<div class="modal-overlay" id="enquiryModal" onclick="closeModal(event)">
+  <div class="modal" id="modalBox">
+    <span class="modal-close" onclick="closeEnquiryModal()">&times;</span>
+    <div class="modal-product-info" id="modalProductInfo">
+      <img src="images/placeholder.jpg" alt="" class="modal-product-thumb" id="modalThumb" onerror="this.onerror=null;this.src='images/placeholder.jpg'">
+      <div class="modal-product-details"><span id="modalCode"></span><h4 id="modalName"></h4></div>
+    </div>
+    <h3>Enquire About This Piece</h3>
+    <p class="modal-sub">Fill in your details and we'll send your enquiry straight to us on WhatsApp.</p>
+    <div class="form-row"><div class="form-group"><label>Your Name</label><input type="text" id="m-name" placeholder="Full name"></div><div class="form-group"><label>Phone Number</label><input type="tel" id="m-phone" placeholder="+91 XXXXX XXXXX"></div></div>
+    <div class="form-group"><label>Email Address (optional)</label><input type="email" id="m-email" placeholder="your@email.com"></div>
+    <div class="form-group"><label>Message (optional)</label><textarea id="m-msg" placeholder="Any specific requirements…" style="height:80px"></textarea></div>
+    <button class="btn-primary" onclick="submitEnquiry()" style="width:100%;justify-content:center">Send via WhatsApp</button>
+    <div class="form-success" id="modalSuccess"><p>&#10003; &nbsp; Opening WhatsApp…</p></div>
+  </div>
+</div>
+
+<!-- ═══ IMAGE PREVIEW MODAL ═══ -->
+<div class="img-preview-overlay" id="imgPreviewModal" onclick="closeImagePreview(event)">
+  <div class="img-preview-box">
+    <span class="img-preview-close" onclick="closeImagePreview()">&times;</span>
+    <img src="" alt="" id="imgPreviewSrc">
+    <div class="img-preview-caption" id="imgPreviewCaption"></div>
+  </div>
+</div>
+
+
+<!-- Firebase (compat SDKs — no build step required) -->
+<script src="https://www.gstatic.com/firebasejs/10.14.1/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.14.1/firebase-firestore-compat.js"></script>
+
+<!-- App config (edit with your own project keys) -->
+<script src="js/firebase-config.js"></script>
+<script src="js/cloudinary-config.js"></script>
+
+<!-- App logic -->
+<script src="js/main.js"></script>
+</body>
+</html>

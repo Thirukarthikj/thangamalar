@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "default": "REPLACE_WITH_YOUR_FIREBASE_PROJECT_ID"
+  },
+  "targets": {
+    "REPLACE_WITH_YOUR_FIREBASE_PROJECT_ID": {
+      "hosting": {
+        "frontend": [
+          "REPLACE_WITH_YOUR_FRONTEND_HOSTING_SITE_ID"
+        ],
+        "admin": [
+          "REPLACE_WITH_YOUR_ADMIN_HOSTING_SITE_ID"
+        ]
+      }
+    }
+  }
+}

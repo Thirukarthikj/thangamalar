@@ -1,0 +1,21 @@
+# Secrets — never commit these
+backend/seed/.env
+backend/seed/serviceAccountKey.json
+**/serviceAccountKey*.json
+*.env
+!*.env.example
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Firebase
+.firebase/
+firebase-debug.log
+firestore-debug.log
+ui-debug.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/

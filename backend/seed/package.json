@@ -1,0 +1,15 @@
+{
+  "name": "thangamalar-seed",
+  "version": "1.0.0",
+  "private": true,
+  "description": "One-time helper script to import the sample product catalog into Firestore (and optionally upload the sample photos to Cloudinary). This is a local Node.js tool only — it is never deployed and is not part of the website.",
+  "type": "commonjs",
+  "scripts": {
+    "seed": "node seed.js"
+  },
+  "dependencies": {
+    "cloudinary": "^1.41.3",
+    "dotenv": "^16.4.5",
+    "firebase-admin": "^12.3.1"
+  }
+}
