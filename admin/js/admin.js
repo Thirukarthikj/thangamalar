@@ -166,9 +166,23 @@ function uploadToCloudinary(file) {
     saveBtn.disabled = true;
     saveBtn.textContent = 'Uploading image...';
 
+    const timestamp = Math.floor(Date.now() / 1000);
+    let signatureString = '';
+    
+    // The parameters must be sorted alphabetically for the Cloudinary signature
+    if (CLOUDINARY_FOLDER) {
+      signatureString = `folder=${CLOUDINARY_FOLDER}&timestamp=${timestamp}${CLOUDINARY_API_SECRET}`;
+    } else {
+      signatureString = `timestamp=${timestamp}${CLOUDINARY_API_SECRET}`;
+    }
+    
+    const signature = CryptoJS.SHA1(signatureString).toString();
+
     const formData = new FormData();
     formData.append('file', file);
-    formData.append('upload_preset', CLOUDINARY_UPLOAD_PRESET);
+    formData.append('api_key', CLOUDINARY_API_KEY);
+    formData.append('timestamp', timestamp);
+    formData.append('signature', signature);
     if (CLOUDINARY_FOLDER) formData.append('folder', CLOUDINARY_FOLDER);
 
     const xhr = new XMLHttpRequest();
